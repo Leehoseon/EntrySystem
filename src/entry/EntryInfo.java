@@ -1,9 +1,4 @@
- /*
- * Auth : elTOV
- * Desc : entry 정보 데이터빈
- */
-
-package com.shoes.admin.entry;
+﻿package com.shoes.admin.entry;
 
 public class EntryInfo{
 
