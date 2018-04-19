@@ -19,7 +19,7 @@ public class EntryMail{
     //응모자 메일 보내는 부분
     public String setEntryUserSendMail(ArrayList<String> winner_list){
 
-        String host = "192.168.0.201";
+        String host = "192.000.000.000";
         String retstr = "";
 
         ArrayList<String> test_list = new ArrayList<String>();
