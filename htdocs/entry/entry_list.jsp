@@ -1229,7 +1229,7 @@ window.onload=function()
 				$('#id_entry_name_2').val(jsonObj.entry_name);
 				$('#file_name').val(jsonObj.file_name);
 				$('#id_file_type').text(jsonObj.file_ext);
-				$('#id_show_thumb').attr("src","http://192.168.0.201:8001/zcommonfiles/entry/" + jsonObj.file_name );
+				$('#id_show_thumb').attr("src","http://192.000.0.000:8001/zcommonfiles/entry/" + jsonObj.file_name );
 				$('#pop_entry_id').val(entry_id);
 				$('#file_name2').val(jsonObj.file_name);
 				$('#id_shoes_name_2').val(jsonObj.shoes_name);
